@@ -1,6 +1,6 @@
 -- Write a script that prints the full description of the table books
 -- from the database alx_book_store in your MySQL server.
--- You are not allowed to use the DESCRIBE or EXPLAIN statements
+-- You are not allowed to use the DESCRIBing or EXPLAIning statements
 
 USE alx_book_store;
 
