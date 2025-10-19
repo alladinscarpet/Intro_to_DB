@@ -27,6 +27,6 @@ try:
     mycursor.close()
 
 # error handling
-except Exception as e:
+except mysql.connector.Error as e:
     print(f"Occured error: {e}")
 
